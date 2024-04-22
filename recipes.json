@@ -1,0 +1,296 @@
+{
+    "recipes": [
+      {
+        "title": "Chicken Alfredo",
+        "description": "Creamy pasta dish with grilled chicken and Alfredo sauce",
+        "author": "Chef Julia",
+        "prep_time": "15 minutes",
+        "cook_time": "20 minutes",
+        "total_time": "35 minutes",
+        "servings": 4,
+        "ingredients": [
+          "400g fettuccine pasta",
+          "2 chicken breasts, grilled and sliced",
+          "2 cups heavy cream",
+          "1 cup grated Parmesan cheese",
+          "4 cloves garlic, minced",
+          "Salt and pepper to taste",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "Cook fettuccine pasta according to package instructions until al dente. Drain and set aside.",
+          "In a large skillet, heat heavy cream over medium heat. Add minced garlic and simmer for 2-3 minutes.",
+          "Stir in grated Parmesan cheese until melted and smooth. Season with salt and pepper.",
+          "Add cooked pasta and grilled chicken slices to the skillet. Toss to coat evenly in the Alfredo sauce.",
+          "Serve hot, garnished with chopped fresh parsley."
+        ],
+        "notes": "You can add cooked broccoli or peas to the pasta for added flavor and nutrition."
+      },
+      {
+        "title": "Caprese Salad",
+        "description": "Simple and refreshing salad with tomatoes, mozzarella, and basil",
+        "author": "Chef Giovanni",
+        "prep_time": "10 minutes",
+        "total_time": "10 minutes",
+        "servings": 4,
+        "ingredients": [
+          "4 large tomatoes, sliced",
+          "200g fresh mozzarella cheese, sliced",
+          "Fresh basil leaves",
+          "2 tablespoons extra virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Arrange tomato slices and mozzarella slices alternately on a serving platter.",
+          "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+          "Drizzle extra virgin olive oil and balsamic vinegar over the salad.",
+          "Season with salt and pepper to taste.",
+          "Serve immediately as a refreshing appetizer or side dish."
+        ],
+        "notes": "For added flavor, you can sprinkle some freshly ground black pepper or drizzle with a balsamic glaze."
+      },
+      {
+        "title": "Beef Tacos",
+        "description": "Classic Mexican street food made with seasoned ground beef and toppings",
+        "author": "Chef Miguel",
+        "prep_time": "10 minutes",
+        "cook_time": "15 minutes",
+        "total_time": "25 minutes",
+        "servings": 6,
+        "ingredients": [
+          "500g ground beef",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 tablespoon chili powder",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon paprika",
+          "Salt and pepper to taste",
+          "12 small corn tortillas",
+          "Taco toppings (shredded lettuce, diced tomatoes, shredded cheese, salsa, sour cream, etc.)"
+        ],
+        "instructions": [
+          "In a large skillet, cook ground beef over medium heat until browned. Drain excess fat.",
+          "Add chopped onion and minced garlic to the skillet. Cook until onion is translucent.",
+          "Stir in chili powder, ground cumin, paprika, salt, and pepper. Cook for another 2-3 minutes.",
+          "Warm corn tortillas on a hot skillet or in the microwave.",
+          "Assemble tacos by spooning seasoned ground beef onto each tortilla and adding desired toppings.",
+          "Serve hot with lime wedges on the side."
+        ],
+        "notes": "You can customize your tacos with your favorite toppings such as guacamole, diced avocado, or pickled jalapenos."
+      },
+      {
+        "title": "Vegetable Stir-Fry",
+        "description": "Healthy and colorful stir-fried vegetables with a savory sauce",
+        "author": "Chef Mei",
+        "prep_time": "15 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "25 minutes",
+        "servings": 4,
+        "ingredients": [
+          "2 tablespoons vegetable oil",
+          "1 onion, thinly sliced",
+          "2 bell peppers, thinly sliced",
+          "2 carrots, julienned",
+          "200g snow peas, trimmed",
+          "200g broccoli florets",
+          "3 tablespoons soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 teaspoon sesame oil",
+          "1 teaspoon cornstarch dissolved in 2 tablespoons water",
+          "Cooked rice for serving"
+        ],
+        "instructions": [
+          "Heat vegetable oil in a large skillet or wok over high heat.",
+          "Add sliced onion, bell peppers, and julienned carrots to the skillet. Stir-fry for 2-3 minutes until vegetables are tender-crisp.",
+          "Add snow peas and broccoli florets to the skillet. Stir-fry for another 2 minutes.",
+          "In a small bowl, mix together soy sauce, oyster sauce, sesame oil, and cornstarch slurry.",
+          "Pour the sauce mixture over the vegetables in the skillet. Stir well to coat.",
+          "Cook for another minute until the sauce thickens and coats the vegetables evenly.",
+          "Serve hot over cooked rice."
+        ],
+        "notes": "You can add other vegetables such as mushrooms, baby corn, or water chestnuts to the stir-fry according to your preference."
+      },
+      {
+        "title": "Chocolate Chip Cookies",
+        "description": "Classic homemade cookies with chocolate chips",
+        "author": "Chef Sarah",
+        "prep_time": "15 minutes",
+        "cook_time": "10 minutes",
+        "total_time": "25 minutes",
+        "servings": 24,
+        "ingredients": [
+          "1 cup unsalted butter, softened",
+          "1 cup granulated sugar",
+          "1 cup packed brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "3 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "2 cups semisweet chocolate chips"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C). Line baking sheets with parchment paper.",
+          "In a large mixing bowl, cream together softened butter, granulated sugar, and brown sugar until smooth.",
+          "Beat in eggs one at a time, then stir in vanilla extract.",
+          "In a separate bowl, combine all-purpose flour, baking soda, and salt.",
+          "Gradually add the dry ingredients to the wet ingredients, mixing until well combined.",
+          "Fold in chocolate chips until evenly distributed throughout the cookie dough.",
+          "Drop tablespoonfuls of dough onto prepared baking sheets, leaving space between each cookie.",
+          "Bake in preheated oven for 8-10 minutes, or until edges are golden brown.",
+          "Allow cookies to cool on the baking sheet for a few minutes before transferring to wire racks to cool completely."
+        ],
+        "notes": "You can customize your cookies by adding chopped nuts or different types of chocolate chips such as white chocolate or milk chocolate."
+      },
+      {
+        "title": "Margarita Pizza",
+        "description": "Classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil",
+        "author": "Chef Antonio",
+        "prep_time": "20 minutes",
+        "cook_time": "12 minutes",
+        "total_time": "32 minutes",
+        "servings": 4,
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup pizza sauce",
+          "2 cups shredded mozzarella cheese",
+          "Fresh basil leaves",
+          "Extra virgin olive oil for drizzling",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Preheat oven to 475°F (245°C). Place a pizza stone or baking sheet in the oven to preheat.",
+          "On a floured surface, roll out pizza dough into a circle or rectangle of desired thickness.",
+          "Transfer rolled-out dough to a piece of parchment paper.",
+          "Spread pizza sauce evenly over the dough, leaving a small border around the edges.",
+          "Sprinkle shredded mozzarella cheese over the sauce.",
+          "Tear fresh basil leaves and scatter them over the cheese.",
+          "Drizzle extra virgin olive oil over the pizza. Season with salt and pepper to taste.",
+          "Carefully transfer the parchment paper with the assembled pizza onto the preheated pizza stone or baking sheet in the oven.",
+          "Bake for 10-12 minutes, or until the crust is golden brown and the cheese is bubbly and melted.",
+          "Remove pizza from the oven and let it cool for a few minutes before slicing and serving."
+        ],
+        "notes": "You can add additional toppings such as sliced tomatoes, olives, or mushrooms to customize your pizza."
+      },
+      {
+        "title": "Berry Smoothie Bowl",
+        "description": "Healthy and colorful smoothie bowl topped with fresh berries and granola",
+        "author": "Chef Emily",
+        "prep_time": "10 minutes",
+        "total_time": "10 minutes",
+        "servings": 2,
+        "ingredients": [
+          "2 ripe bananas, frozen",
+          "1 cup mixed berries (strawberries, blueberries, raspberries)",
+          "1/2 cup plain Greek yogurt",
+          "1/4 cup almond milk or any milk of choice",
+          "1 tablespoon honey or maple syrup (optional)",
+          "Toppings: Fresh berries, sliced banana, granola, shredded coconut, chia seeds, honey or maple syrup"
+        ],
+        "instructions": [
+          "In a blender, combine frozen bananas, mixed berries, Greek yogurt, and almond milk.",
+          "Blend until smooth and creamy, adding more milk if necessary to achieve desired consistency.",
+          "Taste the smoothie and add honey or maple syrup if you prefer a sweeter flavor.",
+          "Pour the smoothie into bowls and top with fresh berries, sliced banana, granola, shredded coconut, chia seeds, and a drizzle of honey or maple syrup.",
+          "Serve immediately and enjoy!"
+        ],
+        "notes": "You can customize your smoothie bowl with your favorite toppings such as nuts, seeds, or dried fruit."
+      },
+      {
+        "title": "Tiramisu",
+        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream",
+        "author": "Chef Matteo",
+        "prep_time": "30 minutes",
+        "total_time": "4 hours (including chilling time)",
+        "servings": 8,
+        "ingredients": [
+          "6 large egg yolks",
+          "3/4 cup granulated sugar",
+          "1 cup mascarpone cheese",
+          "1 1/2 cups heavy cream",
+          "1 cup strong brewed coffee, cooled",
+          "2 tablespoons coffee liqueur (optional)",
+          "24-30 ladyfinger cookies (savoiardi)",
+          "Cocoa powder for dusting"
+        ],
+        "instructions": [
+          "In a heatproof bowl, whisk together egg yolks and granulated sugar until pale and creamy.",
+          "Place the bowl over a pot of simmering water (double boiler) and continue whisking until the mixture thickens and forms ribbons when lifted from the bowl.",
+          "Remove from heat and let cool slightly. Stir in mascarpone cheese until smooth.",
+          "In a separate bowl, whip heavy cream until stiff peaks form. Gently fold whipped cream into the mascarpone mixture until well combined.",
+          "In a shallow dish, combine cooled brewed coffee and coffee liqueur (if using). Dip ladyfinger cookies into the coffee mixture briefly, ensuring they are soaked but not soggy.",
+          "Arrange a layer of soaked ladyfingers in the bottom of a serving dish or baking dish.",
+          "Spread half of the mascarpone cream mixture over the soaked ladyfingers.",
+          "Repeat with another layer of soaked ladyfingers and remaining mascarpone cream mixture.",
+          "Cover and refrigerate tiramisu for at least 4 hours or overnight to set.",
+          "Before serving, dust the top of the tiramisu with cocoa powder.",
+          "Slice and serve chilled."
+        ],
+        "notes": "Tiramisu can be made ahead of time and refrigerated for up to 2 days. The flavors will meld together and the dessert will become even more delicious!"
+      },
+      {
+        "title": "Greek Salad",
+        "description": "Fresh and vibrant salad with tomatoes, cucumbers, olives, feta cheese, and Greek dressing",
+        "author": "Chef Nikos",
+        "prep_time": "15 minutes",
+        "total_time": "15 minutes",
+        "servings": 4,
+        "ingredients": [
+          "4 large tomatoes, diced",
+          "1 English cucumber, diced",
+          "1 red onion, thinly sliced",
+          "1 cup Kalamata olives, pitted",
+          "200g feta cheese, crumbled",
+          "Fresh oregano leaves",
+          "3 tablespoons extra virgin olive oil",
+          "2 tablespoons red wine vinegar",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "In a large salad bowl, combine diced tomatoes, diced cucumber, thinly sliced red onion, and pitted Kalamata olives.",
+          "Crumble feta cheese over the salad.",
+          "In a small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and pepper.",
+          "Drizzle the dressing over the salad and toss gently to coat all the ingredients.",
+          "Garnish with fresh oregano leaves.",
+          "Serve immediately as a refreshing side dish or light meal."
+        ],
+        "notes": "You can customize your Greek salad by adding chopped bell peppers, cherry tomatoes, or thinly sliced radishes."
+      },
+      {
+        "title": "Ratatouille",
+        "description": "Classic French vegetable stew made with tomatoes, eggplant, zucchini, bell peppers, and herbs",
+        "author": "Chef Pierre",
+        "prep_time": "20 minutes",
+        "cook_time": "40 minutes",
+        "total_time": "1 hour",
+        "servings": 6,
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 eggplant, diced",
+          "2 zucchini, diced",
+          "1 bell pepper, diced",
+          "2 cups diced tomatoes",
+          "1 tablespoon tomato paste",
+          "1 teaspoon dried thyme",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste",
+          "Fresh parsley for garnish"
+        ],
+        "instructions": [
+          "In a large skillet or Dutch oven, heat olive oil over medium heat.",
+          "Add diced onion and minced garlic to the skillet. Cook until softened and fragrant.",
+          "Add diced eggplant, zucchini, and bell pepper to the skillet. Cook until vegetables are tender but not mushy.",
+          "Stir in diced tomatoes, tomato paste, dried thyme, and dried oregano. Season with salt and pepper to taste.",
+          "Simmer the ratatouille over low heat for 20-30 minutes, stirring occasionally, until flavors meld together.",
+          "Garnish with chopped fresh parsley before serving.",
+          "Serve hot as a main dish or side dish, with crusty bread or cooked rice."
+        ],
+        "notes": "Ratatouille tastes even better the next day as the flavors develop further. It can be reheated gently on the stovetop or in the microwave."
+      }
+    ]
+  }
+  
