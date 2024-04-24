@@ -1,0 +1,285 @@
+{
+    "books": [
+      {
+        "isbn": "9780061120084",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "publication_year": 1960,
+        "publisher": "Harper Perennial Modern Classics",
+        "copies_available": 5,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "A",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780679406419",
+        "title": "Infinite Jest",
+        "author": "David Foster Wallace",
+        "genre": "Fiction",
+        "publication_year": 1996,
+        "publisher": "Little, Brown and Company",
+        "copies_available": 3,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "B",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780545010221",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "publication_year": 1997,
+        "publisher": "Scholastic Inc.",
+        "copies_available": 8,
+        "location": {
+          "shelf": "Fantasy Section",
+          "aisle": "C",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780743273565",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "publication_year": 2003,
+        "publisher": "Anchor Books",
+        "copies_available": 2,
+        "location": {
+          "shelf": "Thriller Section",
+          "aisle": "D",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780143127550",
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian Fiction",
+        "publication_year": 1949,
+        "publisher": "Signet Classics",
+        "copies_available": 6,
+        "location": {
+          "shelf": "Classics Section",
+          "aisle": "E",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780316010665",
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "genre": "Young Adult",
+        "publication_year": 2005,
+        "publisher": "Little, Brown and Company",
+        "copies_available": 4,
+        "location": {
+          "shelf": "Young Adult Section",
+          "aisle": "F",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780141439617",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "publication_year": 1813,
+        "publisher": "Penguin Classics",
+        "copies_available": 3,
+        "location": {
+          "shelf": "Classics Section",
+          "aisle": "E",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780307887443",
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Young Adult",
+        "publication_year": 2008,
+        "publisher": "Scholastic Press",
+        "copies_available": 7,
+        "location": {
+          "shelf": "Young Adult Section",
+          "aisle": "F",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780679783268",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "publication_year": 1951,
+        "publisher": "Little, Brown and Company",
+        "copies_available": 5,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "A",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9781451626657",
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "Historical Fiction",
+        "publication_year": 2009,
+        "publisher": "Penguin Books",
+        "copies_available": 6,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "B",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780743273565",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classics",
+        "publication_year": 1925,
+        "publisher": "Scribner",
+        "copies_available": 3,
+        "location": {
+          "shelf": "Classics Section",
+          "aisle": "E",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780553381702",
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "genre": "Fantasy",
+        "publication_year": 1996,
+        "publisher": "Bantam Books",
+        "copies_available": 8,
+        "location": {
+          "shelf": "Fantasy Section",
+          "aisle": "C",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780061125409",
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "genre": "Post-apocalyptic Fiction",
+        "publication_year": 2006,
+        "publisher": "Vintage Books",
+        "copies_available": 4,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "A",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780399593499",
+        "title": "The Testaments",
+        "author": "Margaret Atwood",
+        "genre": "Dystopian Fiction",
+        "publication_year": 2019,
+        "publisher": "Nan A. Talese",
+        "copies_available": 2,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "B",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780140277633",
+        "title": "The Godfather",
+        "author": "Mario Puzo",
+        "genre": "Crime Fiction",
+        "publication_year": 1969,
+        "publisher": "G.P. Putnam's Sons",
+        "copies_available": 3,
+        "location": {
+          "shelf": "Mystery & Thriller Section",
+          "aisle": "D",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9781400031702",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": "Historical Fiction",
+        "publication_year": 2003,
+        "publisher": "Riverhead Books",
+        "copies_available": 5,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "B",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780735219090",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "genre": "Mystery",
+        "publication_year": 2018,
+        "publisher": "G.P. Putnam's Sons",
+        "copies_available": 6,
+        "location": {
+          "shelf": "Mystery & Thriller Section",
+          "aisle": "D",
+          "floor": 2
+        }
+      },
+      {
+        "isbn": "9780061120084",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Science Fiction",
+        "publication_year": 1932,
+        "publisher": "Chatto & Windus",
+        "copies_available": 4,
+        "location": {
+          "shelf": "Science Fiction Section",
+          "aisle": "G",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9781455586691",
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "genre": "Fantasy",
+        "publication_year": 2011,
+        "publisher": "Anchor Books",
+        "copies_available": 3,
+        "location": {
+          "shelf": "Fantasy Section",
+          "aisle": "C",
+          "floor": 1
+        }
+      },
+      {
+        "isbn": "9780812993547",
+        "title": "The Goldfinch",
+        "author": "Donna Tartt",
+        "genre": "Literary Fiction",
+        "publication_year": 2013,
+        "publisher": "Little, Brown and Company",
+        "copies_available": 7,
+        "location": {
+          "shelf": "Fiction Section",
+          "aisle": "A",
+          "floor": 1
+        }
+      }
+    ]
+  
+}

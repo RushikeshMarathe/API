@@ -1,0 +1,207 @@
+{
+    "tasks": [
+      {
+        "task_id": "1001",
+        "title": "Create project proposal",
+        "description": "Draft a detailed project proposal outlining goals, deliverables, and timelines.",
+        "priority": "High",
+        "status": "In Progress",
+        "assignee": "John Doe",
+        "due_date": "2024-05-05",
+        "created_date": "2024-04-15"
+      },
+      {
+        "task_id": "1002",
+        "title": "Develop wireframes",
+        "description": "Create wireframes for the user interface based on project requirements.",
+        "priority": "Medium",
+        "status": "Pending",
+        "assignee": "Emily Smith",
+        "due_date": "2024-04-30",
+        "created_date": "2024-04-18"
+      },
+      {
+        "task_id": "1003",
+        "title": "Research market trends",
+        "description": "Gather data on current market trends and competitors for strategic analysis.",
+        "priority": "Low",
+        "status": "New",
+        "assignee": "David Johnson",
+        "due_date": "2024-04-25",
+        "created_date": "2024-04-20"
+      },
+      {
+        "task_id": "1004",
+        "title": "Design logo concepts",
+        "description": "Create several logo concepts reflecting the brand identity and values.",
+        "priority": "High",
+        "status": "Completed",
+        "assignee": "Sarah Williams",
+        "due_date": "2024-04-22",
+        "created_date": "2024-04-10",
+        "completed_date": "2024-04-21"
+      },
+      {
+        "task_id": "1005",
+        "title": "Code backend functionalities",
+        "description": "Develop backend functionalities and database architecture for the project.",
+        "priority": "High",
+        "status": "In Progress",
+        "assignee": "Michael Brown",
+        "due_date": "2024-05-10",
+        "created_date": "2024-04-12"
+      },
+      {
+        "task_id": "1006",
+        "title": "Test user authentication",
+        "description": "Conduct rigorous testing of user authentication features to ensure security.",
+        "priority": "Medium",
+        "status": "Pending",
+        "assignee": "Jessica Taylor",
+        "due_date": "2024-05-03",
+        "created_date": "2024-04-16"
+      },
+      {
+        "task_id": "1007",
+        "title": "Prepare project documentation",
+        "description": "Compile project documentation including user manuals and technical specifications.",
+        "priority": "Medium",
+        "status": "New",
+        "assignee": "Christopher Martinez",
+        "due_date": "2024-05-07",
+        "created_date": "2024-04-19"
+      },
+      {
+        "task_id": "1008",
+        "title": "Review frontend code",
+        "description": "Review and provide feedback on frontend code for optimization and best practices.",
+        "priority": "Low",
+        "status": "In Progress",
+        "assignee": "Ashley Garcia",
+        "due_date": "2024-05-12",
+        "created_date": "2024-04-14"
+      },
+      {
+        "task_id": "1009",
+        "title": "Conduct user testing",
+        "description": "Organize and conduct user testing sessions to gather feedback on usability.",
+        "priority": "High",
+        "status": "Pending",
+        "assignee": "Matthew Hernandez",
+        "due_date": "2024-05-08",
+        "created_date": "2024-04-17"
+      },
+      {
+        "task_id": "1010",
+        "title": "Optimize website performance",
+        "description": "Optimize website performance through code refactoring and resource minification.",
+        "priority": "High",
+        "status": "New",
+        "assignee": "Amanda Martinez",
+        "due_date": "2024-05-06",
+        "created_date": "2024-04-21"
+      },
+      {
+        "task_id": "1011",
+        "title": "Create marketing collateral",
+        "description": "Design marketing collateral including brochures, banners, and social media graphics.",
+        "priority": "Medium",
+        "status": "In Progress",
+        "assignee": "Daniel Rodriguez",
+        "due_date": "2024-05-15",
+        "created_date": "2024-04-13"
+      },
+      {
+        "task_id": "1012",
+        "title": "Write user stories",
+        "description": "Draft user stories and acceptance criteria for agile development process.",
+        "priority": "Low",
+        "status": "Completed",
+        "assignee": "Olivia Brown",
+        "due_date": "2024-04-25",
+        "created_date": "2024-04-09",
+        "completed_date": "2024-04-24"
+      },
+      {
+        "task_id": "1013",
+        "title": "Setup development environment",
+        "description": "Configure development environment with required tools and libraries.",
+        "priority": "High",
+        "status": "In Progress",
+        "assignee": "William Wilson",
+        "due_date": "2024-05-02",
+        "created_date": "2024-04-11"
+      },
+      {
+        "task_id": "1014",
+        "title": "Prepare project budget",
+        "description": "Estimate project costs and prepare a detailed budget report for stakeholders.",
+        "priority": "High",
+        "status": "Pending",
+        "assignee": "Sophia Taylor",
+        "due_date": "2024-05-04",
+        "created_date": "2024-04-08"
+      },
+      {
+        "task_id": "1015",
+        "title": "Implement SEO strategies",
+        "description": "Implement SEO strategies to improve website visibility and ranking.",
+        "priority": "Medium",
+        "status": "New",
+        "assignee": "Ethan Hernandez",
+        "due_date": "2024-05-09",
+        "created_date": "2024-04-20"
+      },
+      {
+        "task_id": "1016",
+        "title": "Create content calendar",
+        "description": "Develop a content calendar outlining topics and publishing schedules.",
+        "priority": "Low",
+        "status": "In Progress",
+        "assignee": "Emma Brown",
+        "due_date": "2024-05-14",
+        "created_date": "2024-04-15"
+      },
+      {
+        "task_id": "1017",
+        "title": "Setup project management tool",
+        "description": "Setup and configure a project management tool for team collaboration and task tracking.",
+        "priority": "High",
+        "status": "Pending",
+        "assignee": "Noah Taylor",
+        "due_date": "2024-05-03",
+        "created_date": "2024-04-12"
+      },
+      {
+        "task_id": "1018",
+        "title": "Conduct stakeholder meeting",
+        "description": "Schedule and conduct a meeting with project stakeholders to discuss project progress.",
+        "priority": "Medium",
+        "status": "New",
+        "assignee": "Mia Rodriguez",
+        "due_date": "2024-05-06",
+        "created_date": "2024-04-19"
+      },
+      {
+        "task_id": "1019",
+        "title": "Create training materials",
+        "description": "Develop training materials including guides and presentations for project implementation.",
+        "priority": "High",
+        "status": "In Progress",
+        "assignee": "Liam Wilson",
+        "due_date": "2024-05-12",
+        "created_date": "2024-04-10"
+      },
+      {
+        "task_id": "1020",
+        "title": "Review project scope",
+        "description": "Review project scope and requirements to ensure alignment with stakeholders' expectations.",
+        "priority": "High",
+        "status": "Pending",
+        "assignee": "Ava Anderson",
+        "due_date": "2024-05-05",
+        "created_date": "2024-04-14"
+      }
+    ]
+  }
+  
